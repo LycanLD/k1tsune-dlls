@@ -1,0 +1,10 @@
+{
+	"client": {
+		"version": "0.5",
+		"url": "https://github.com/LycanLD/k1tsune-dlls/releases/download/v0.5/kitsune.dll"
+	},
+	"injector": {
+		"version": "0.5",
+		"url": "https://github.com/h1meji/fusion-plus/releases/download/v0.5/kitsune_inj.exe"
+	}
+}
