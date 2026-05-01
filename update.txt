@@ -1,6 +1,6 @@
 {
 	"client": {
-		"version": "0.5",
+		"version": "0.6",
 		"url": "https://github.com/LycanLD/k1tsune-dlls/releases/download/v0.5/kitsune.dll"
 	},
 	"injector": {
